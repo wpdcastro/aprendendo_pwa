@@ -30,7 +30,7 @@
            <div class="row">
              <div class="col-6 collapse-brand">
                <a href="./pages/dashboards/dashboard.html">
-                 <img src="{{ asset('assets/img/brand/blue.png') }}">
+                 <img src="imagens/climber_icon.jpg">
                </a>
              </div>
              <div class="col-6 collapse-close">
