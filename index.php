@@ -14,6 +14,7 @@
    <!-- Page plugins -->
    <!-- Argon CSS -->
    <link rel="stylesheet" href="./assets/css/argon.css?v=1.1.0" type="text/css">
+   <link href="manifest.json">
  </head>
 
  <body>
