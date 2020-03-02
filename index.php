@@ -20,7 +20,7 @@
    <nav id="navbar-main" class="navbar navbar-horizontal navbar-main navbar-expand-lg navbar-dark bg-primary">
      <div class="container">
        <a class="navbar-brand" href="#!">
-         <img src="{{ asset('assets/img/brand/white.png')}}">
+         <img src="imagens/climber_icon.jpg">
        </a>
        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
          <span class="navbar-toggler-icon"></span>
@@ -348,14 +348,7 @@
        </div>
      </div>
    </footer>
-   <script src="{{ asset('assets/vendor/jquery/dist/jquery.min.js') }}"></script>
-   <script src="{{ asset('assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js') }}"></script>
-   <script src="{{ asset('assets/vendor/js-cookie/js.cookie.js') }}"></script>
-   <script src="{{ asset('assets/vendor/jquery.scrollbar/jquery.scrollbar.min.js') }}"></script>
-   <script src="{{ asset('assets/vendor/jquery-scroll-lock/dist/jquery-scrollLock.min.js') }}"></script>
-   <script src="{{ asset('assets/vendor/onscreen/dist/on-screen.umd.min.js') }}"></script>
-   <script src="{{ asset('assets/js/argon.js?v=1.1.0') }}"></script>
-   <script src="{{ asset('assets/js/demo.min.js') }}"></script>
+   <script src="main.js"></script>
  </body>
 
  </html>
