@@ -1,6 +1,7 @@
 <!DOCTYPE html>
  <html>
  <head>
+  <link rel="manifest" href="manifest.json">
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    <meta name="description" content="Start your development with a Dashboard for Bootstrap 4.">
@@ -14,7 +15,6 @@
    <!-- Page plugins -->
    <!-- Argon CSS -->
    <link rel="stylesheet" href="./assets/css/argon.css?v=1.1.0" type="text/css">
-   <link href="manifest.json">
  </head>
 
  <body>
