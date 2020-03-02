@@ -99,4 +99,4 @@ if ('serviceWorker' in navigator) {
 		}
 	});
 
-})(jQuery);
+});
