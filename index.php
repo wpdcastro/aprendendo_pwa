@@ -4,14 +4,17 @@
   <link rel="manifest" href="manifest.json">
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+   <meta name="theme-color" content="#317EFB"/>
+   <link rel="apple-touch-icon" href="./assets/img/brand/favicon.png">
    <meta name="description" content="Start your development with a Dashboard for Bootstrap 4.">
-   <title> Project G - Hackathon Univem</title>
+   <title>Climber</title>
    <link rel="icon" href="./assets/img/brand/favicon.png" type="image/png">
    <!-- Fonts -->
    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700">
    <!-- Icons -->
    <link rel="stylesheet" href="./assets/vendor/nucleo/css/nucleo.css" type="text/css">
    <link rel="stylesheet" href="./assets/vendor/@fortawesome/fontawesome-free/css/all.min.css" type="text/css">
+
    <!-- Page plugins -->
    <!-- Argon CSS -->
    <link rel="stylesheet" href="./assets/css/argon.css?v=1.1.0" type="text/css">
@@ -21,7 +24,7 @@
    <nav id="navbar-main" class="navbar navbar-horizontal navbar-main navbar-expand-lg navbar-dark bg-primary">
      <div class="container">
        <a class="navbar-brand" href="#!">
-         <img src="imagens/climber_icon.jpg">
+         <img src="imagens/logo-climber.png">
        </a>
        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
          <span class="navbar-toggler-icon"></span>
@@ -31,7 +34,7 @@
            <div class="row">
              <div class="col-6 collapse-brand">
                <a href="./pages/dashboards/dashboard.html">
-                 <img src="imagens/climber_icon.jpg">
+                 <img src="imagens/logo-climber.png">
                </a>
              </div>
              <div class="col-6 collapse-close">
@@ -93,9 +96,9 @@
            <div class="row align-items-center">
              <div class="col-lg-6">
                <div class="pr-5">
-                 <h1 class="display-2 text-white font-weight-bold mb-0">Project <font color="#ff9207">G</font></h1>
+                 <h1 class="display-2 text-white font-weight-bold mb-0"><font color="#ff9207">Climber</font></h1>
                  <h2 class="display-4 text-white font-weight-light">Metodologia de ensino e avaliação gameficada.</h2>
-                 <p class="text-white mt-4">Aqui professores e alunos contarão com uma interação impar e inovadora, o Project G é uma plataforma preparada para a gestão de trabalhos, tarefas, desafios e atividades propostas pelos professores que poderão avaliar não somente os exercícios e andamento dos alunos, mas também as soft skills e desenvolvimento dos mesmos.</p>
+                 <p class="text-white mt-4">Aqui professores e alunos contarão com uma interação impar e inovadora, o Climber é uma plataforma preparada para a gestão de trabalhos, tarefas, desafios e atividades propostas pelos professores que poderão avaliar não somente os exercícios e andamento dos alunos, mas também as soft skills e desenvolvimento dos mesmos.</p>
                  <div class="mt-5">
                    <a href="./pages/dashboards/dashboard.html" class="btn btn-neutral my-2">Saiba mais</a>
                    <a href="https://www.creative-tim.com/product/argon-dashboard-pro" class="btn btn-default my-2">Participar Agora</a>
@@ -108,7 +111,7 @@
                    <div class="card">
                      <div class="card-body">
                        <div class="icon icon-shape bg-gradient-red text-white rounded-circle shadow mb-4">
-                         <i class="ni ni-active-40"></i>
+                         <span class="oi oi-thumb-up"></span>
                        </div>
                        <h5 class="h3">Liderança</h5>
                        <p>Habilidade do aluno de conduzir um grupo, e motivá-lo a colaborar e maneira voluntária.</p>
@@ -220,7 +223,7 @@
            <div class="col-md-6 order-md-1">
              <div class="pr-md-5">
                <h1>Sistema de progressão</h1>
-               <p>O Project <font color="#ff9207">G</font></h1> utiliza <font color="#ff9207">Inteligência Artificial</font></h1> para criação de relatórios de evolução do aluno ao longo do curso, comparativos de desempenho e estimativas baseadas em notas anteriores.</p>
+               <p>O<font color="#ff9207">Climber</font></h1> utiliza <font color="#ff9207">Inteligência Artificial</font></h1> para criação de relatórios de evolução do aluno ao longo do curso, comparativos de desempenho e estimativas baseadas em notas anteriores.</p>
                <ul class="list-unstyled mt-5">
                  <li class="py-2">
                    <div class="d-flex align-items-center">
@@ -343,7 +346,7 @@
        <div class="row align-items-center justify-content-xl-between">
          <div class="col-xl-6">
            <div class="copyright text-center text-xl-left text-muted">
-             &copy; 2019 <a href="#" class="font-weight-bold ml-1" target="_blank">Project G</a>
+             &copy; 2020 <a href="#" class="font-weight-bold ml-1" target="_blank">Climber</a>
            </div>
          </div>
        </div>
